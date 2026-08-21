@@ -128,3 +128,21 @@ This project reinforced the Principle of Least Privilege by removing unnecessary
 **Sarah Flores (CipherTrail)**
 
 Google Cybersecurity Professional Certificate Student
+
+
+
+
+
+## Evidence / Screenshots
+
+### Initial File Permissions
+![Initial File Permissions](images/01-before-permissions.png)
+
+### Write Permission Removed
+![Write Permission Removed](images/02-remove-write.png)
+
+### Hidden File
+![Hidden File](images/03-hidden-file.png)
+
+### Final File Permissions
+![Final File Permissions](images/04-final-permissions.png)
