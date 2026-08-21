@@ -50,6 +50,44 @@ rather than relying entirely on external resources.
 
 ## Evidence
 
+### 'apropos' Command
+
+The 'apropos' command was used to search available manual pages by keyword.
+
+![apropos command](apropos_Command.png)
+
+### 'apropos -a' Command
+
+The 'apropos -a' command was used to perform a more specific manual-page search.
+
+![apropos -a command](apropos_-a_Command.png)
+
+### 'man' Command
+
+The 'man' command was used to access detailed Linux manual pages and learn how commands work.
+
+![man command](man_Command.png)
+
+### 'man useradd' Command
+
+The 'man useradd' command was used to research the 'useradd' command and its available options.
+
+![man useradd command](man_useradd_Command.png)
+
+### 'whatis' Command
+
+The 'whatis' command was used to quickly find a brief description of a Linux command.
+
+![whatis command](whatis_Command.png)
+
+### 'whatis rm' and 'rmdir'
+
+The 'whatis' command was used to compare the purpose of the 'rm' and 'rmdir' commands.
+
+![whatis rm and rmdir](whatis_rm_rmdir_Command.png)
+
+
+
 Screenshots documenting the completed activity are included in this project.
 
 ## Key Takeaway
