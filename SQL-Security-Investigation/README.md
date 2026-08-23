@@ -1,90 +1,152 @@
 # SQL Security Investigation
 
-# Overview
+## Overview
 
-This project documents my completion of a cybersecurity SQL lab using the MariaDB shell.
+This project demonstrates my ability to use SQL to investigate security-related data stored in a relational database.
 
-The activity focused on retrieving and analyzing information from a database using 
-SQL queries. I practiced querying employee device information, examining login attempts,
-filtering results, and sorting returned data.
+The activity was completed using the MariaDB shell and focused on retrieving, filtering, sorting, and analyzing information from database tables. The investigation included examining employee information, login attempts, and security-relevant database records.
 
-# Objectives
+This project is part of my cybersecurity portfolio and demonstrates practical SQL skills used in security investigations and log analysis.
 
-- Retrieve information about employee devices
-- Examine login attempt data
-- Filter database results using SQL conditions
-- Use multiple SQL query techniques
-- Sort query results
-- Analyze security-related database information
+---
 
-# Skills Demonstrated
+## Objectives
+
+- Retrieve information from database tables using SQL
+- Query employee and organizational data
+- Investigate login attempt records
+- Filter database results using `WHERE`
+- Sort results using `ORDER BY`
+- Retrieve specific columns from tables
+- Execute multiple SQL queries
+- Analyze database information for security-related findings
+
+---
+
+## Tools & Technologies
 
 - SQL
 - MariaDB
-- Database Queries
-- Data Filtering
-- SELECT
-- WHERE
-- ORDER BY
-- FROM
-- Query Conditions
-- Security Log Analysis
-- Authentication Data Analysis
+- Linux
+- MariaDB Shell
+- Relational Databases
+- GitHub
 
-# SQL Concepts Practiced
+---
 
-## SELECT
+## Skills Demonstrated
 
-Used SELECT statements to retrieve specific information from database tables.
+### SQL Querying
 
-## WHERE
+Used SQL statements to retrieve specific information from database tables.
 
-Used WHERE conditions to filter database records and focus on relevant information.
+Examples include:
 
-## ORDER BY
+- `SELECT`
+- `FROM`
+- `WHERE`
+- `ORDER BY`
 
-Used ORDER BY to organize returned data and make results easier to analyze.
+### Data Filtering
 
-## Multiple Conditions
+Used SQL conditions to narrow database results and identify records relevant to a security investigation.
 
-Practiced combining conditions to narrow database searches and investigate specific records.
+### Data Analysis
 
-## Login Attempt Analysis
+Examined database records to identify information related to:
 
-Queried login attempt data to examine authentication activity and identify information relevant to security investigations.
+- Employee accounts
+- Login attempts
+- Countries
+- Login dates and times
+- Security-related activity
 
-## Evidence
+### Security Investigation
 
-Screenshots from the completed lab are included in this repository:
+Applied SQL querying techniques to investigate authentication and access-related information within a database.
 
-- Checking_users_SQL.png
-- Comma_SQL_query.png
-- Login_time_SQL.png
-- MultipleQuery_SQL.png
-- Order By_SQL.png
-- Patch_date_SQL.png
-- SQL_Query.png
-- SQL_login_attempts.png
-- WHERE_SQL.png
+---
 
-# Security Relevance
+## Investigation Examples
 
-SQL is an important skill for cybersecurity analysts because security information is frequently stored in databases and logs.Being able to retrieve, filter, and organize that information
-allows analysts to investigate authentication activity, identify unusual records, and support
-incident investigations.
+### Employee Information
 
-This lab provided hands-on practice using SQL to work with security-related data in a
-MariaDB environment.
+Queried employee records to retrieve relevant employee and organizational information.
 
-# Tools
+### Login Attempts
 
-- MariaDB
-- SQL
-- Linux-based lab environment
-- Google Cybersecurity Certificate lab environment
+Investigated login attempt records to examine authentication activity and identify information that could be relevant to a security investigation.
 
-# Learning Outcome
+### Filtering Results
 
-Through this activity, I gained hands-on experience using SQL to retrieve and analyze
-database information. I also practiced using SQL filtering and sorting techniques that can
-be applied to cybersecurity investigations and security log analysis.
+Used `WHERE` conditions to narrow query results based on specific investigation requirements.
+
+### Sorting Results
+
+Used `ORDER BY` to organize returned records and make the information easier to analyze.
+
+### Multiple Queries
+
+Executed multiple SQL queries to investigate different aspects of the database.
+
+---
+
+## Portfolio Evidence
+
+Screenshots documenting the completed SQL queries and investigation steps are included in the `screenshots` directory.
+
+Evidence includes:
+
+- Employee database queries
+- Login attempt queries
+- SQL filtering using `WHERE`
+- SQL sorting using `ORDER BY`
+- Multiple SQL queries
+- Completed security investigation exercises
+
+---
+
+## What I Learned
+
+Through this activity, I strengthened my understanding of how SQL can be used as a cybersecurity investigation tool.
+
+I learned how to:
+
+1. Retrieve specific information from relational databases.
+2. Select only the columns needed for an investigation.
+3. Filter records using specific conditions.
+4. Sort database results for easier analysis.
+5. Investigate authentication-related records.
+6. Use SQL to support security investigations and log analysis.
+
+---
+
+## Cybersecurity Relevance
+
+SQL is an important skill for cybersecurity professionals because security teams frequently work with large amounts of structured data.
+
+Security analysts may use SQL to investigate:
+
+- Authentication events
+- Failed login attempts
+- User activity
+- Account information
+- Suspicious access patterns
+- Security logs
+- Incident-related database records
+
+This project demonstrates my ability to use database queries as part of a broader security investigation workflow.
+
+---
+
+## Skills
+
+`SQL` `MariaDB` `Linux` `Database Analysis` `Security Investigation` `Log Analysis` `Data Filtering` `Data Analysis`
+
+---
+
+## Project Status
+
+**Completed**
+
+This activity was completed as part of my cybersecurity training and added to my professional cybersecurity portfolio.
