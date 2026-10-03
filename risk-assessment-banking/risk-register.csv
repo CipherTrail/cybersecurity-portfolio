@@ -1,0 +1,6 @@
+Risk,Likelihood,Severity,Priority,Notes
+Business email compromise,,,,
+Compromised user database,,,
+Financial records leak,,,,
+Theft,,,,
+Supply chain attack,,,,
